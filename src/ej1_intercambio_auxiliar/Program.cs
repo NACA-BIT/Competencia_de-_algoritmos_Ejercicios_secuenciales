@@ -9,5 +9,5 @@ Console.WriteLine($"el numero original A es {a} y el numero B es {b}");
 c = a;
 a = b;
 b = c; 
-
+//fiwuif
 Console.WriteLine($"el numero cambiado es A es {a} y el numero B es {b}");
