@@ -1,0 +1,6 @@
+# Basura de compilación de C# / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.exe
